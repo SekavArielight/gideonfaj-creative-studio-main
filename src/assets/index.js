@@ -1,3 +1,4 @@
+import logo from "./firstlogo.png"
 import brainwave from "./brainwave.svg";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
@@ -80,6 +81,7 @@ import team2 from "./team/team-2.png";
 import team3 from "./team/team-3.png";
 
 export {
+  logo,
   brainwave,
   check,
   check2,

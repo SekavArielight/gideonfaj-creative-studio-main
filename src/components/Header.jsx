@@ -4,7 +4,7 @@ import { disablePageScroll, enablePageScroll } from "scroll-lock";
 
 import Button from "./Button";
 
-import { brainwave } from "../assets";
+import { logo } from "../assets";
 import { navigation } from "../constants";
 import MenuSvg from "../assets/svg/MenuSvg";
 
@@ -38,7 +38,7 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a href="#hero" className="block">
-          <img src="/src/assets/firstlogo.png" alt="Gideon-Faj Creative Studio Logo" className="w-15"/>
+          <img src={logo} alt="Logo" className="w-15"/>
         </a>
 
         <nav
