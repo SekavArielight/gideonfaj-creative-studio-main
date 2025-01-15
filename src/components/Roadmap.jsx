@@ -51,7 +51,7 @@ const Roadmap = () => {
                       </div>
                     </div>
 
-                    <div className="mb-10 -my-10 -mx-15">
+                    <div className="mb-10 -my-5 -mx-15">
                       <img
                         src={item.imageUrl}
                         alt={item.title}
@@ -73,7 +73,7 @@ const Roadmap = () => {
         </div>
 
         <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
-          <Button href="/roadmap">Our Roadmap</Button>
+          <Button href="/roadmap">Get a Free Proposal</Button>
         </div>
       </div>
     </Section>
