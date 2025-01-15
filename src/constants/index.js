@@ -48,12 +48,12 @@ import {
     {
       id: "1",
       title: "Portfolio",
-      url: "#pricing",
+      url: "#roadmap",
     },
     {
       id: "2",
       title: "About",
-      url: "#how-to-use",
+      url: "#team",
     },
     {
       id: "3",
@@ -63,8 +63,7 @@ import {
     {
       id: "4",
       title: "Contact",
-      url: "#login",
-      onlyMobile: true,
+      url: "#footer",
     },
   ];
 
@@ -315,30 +314,18 @@ import {
   export const socials = [
     {
       id: "0",
-      title: "Discord",
-      iconUrl: discordBlack,
-      url: "#",
-    },
-    {
-      id: "1",
       title: "Twitter",
       iconUrl: twitter,
       url: "#",
     },
     {
-      id: "2",
+      id: "1",
       title: "Instagram",
       iconUrl: instagram,
       url: "#",
     },
     {
       id: "3",
-      title: "Telegram",
-      iconUrl: telegram,
-      url: "#",
-    },
-    {
-      id: "4",
       title: "Facebook",
       iconUrl: facebook,
       url: "#",

@@ -5,7 +5,7 @@ import { team } from "../constants";
 
 const Team = () => {
   return (
-    <Section id="about" crosses>
+    <Section id="team" crosses>
       <div className="container">
         <Heading tag="Our Team" title="Our Dedicated Team Members" />
 
