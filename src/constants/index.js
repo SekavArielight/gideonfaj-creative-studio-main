@@ -37,6 +37,7 @@ import {
     telegram,
     twitter,
     yourlogo,
+    benefitImage3,
   } from "../assets";
   
   export const navigation = [
@@ -265,7 +266,7 @@ import {
       text: "Our strategic services are designed to provide a clear roadmap for your business success. We conduct in-depth market analysis, competitive research, and audience profiling to develop tailored strategies that drive growth and enhance your market presence.",
       backgroundUrl: "./src/assets/benefits/card-1.svg",
       iconUrl: benefitIcon1,
-      imageUrl: "/src/assets/benefits/image-2.webp",
+      imageUrl: benefitImage3,
     },
     {
       id: "1",
@@ -273,7 +274,7 @@ import {
       text: "We craft unique and memorable brand identities that resonate with your target audience. From logo design to complete visual identity systems, we ensure your brand stands out in a crowded marketplace.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: benefitIcon2,
-      imageUrl: "/src/assets/benefits/image-2.webp",
+      imageUrl: benefitImage3,
       light: true,
     },
     {
@@ -282,7 +283,7 @@ import {
       text: "Our web design services focus on creating custom, responsive websites that engage your audience and convert visitors into customers. We ensure your website reflects your brand and delivers an exceptional user experience.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
       iconUrl: benefitIcon3,
-      imageUrl: "/src/assets/benefits/image-2.webp",
+      imageUrl: benefitImage3,
     },
     {
       id: "3",
@@ -290,7 +291,7 @@ import {
       text: "Our digital marketing solutions are tailored to increase your online visibility, drive traffic, and convert visitors into loyal customers. We use data-driven strategies to optimize your digital presence across all platforms.",
       backgroundUrl: "./src/assets/benefits/card-4.svg",
       iconUrl: benefitIcon4,
-      imageUrl: "/src/assets/benefits/image-2.webp",
+      imageUrl: benefitImage3,
       light: true,
     },
     {
@@ -299,7 +300,7 @@ import {
       text: "Our printing solutions bring your brand to life with high-quality printed materials. From business cards to promotional items, we deliver exceptional printing services that leave a lasting impression.",
       backgroundUrl: "./src/assets/benefits/card-5.svg",
       iconUrl: benefitIcon1,
-      imageUrl: "/src/assets/benefits/image-2.webp",
+      imageUrl: benefitImage3,
     },
     // {
     //   id: "5",
