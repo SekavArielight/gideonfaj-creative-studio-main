@@ -28,6 +28,9 @@ import {
     roadmap2,
     roadmap3,
     roadmap4,
+    team1,
+    team2,
+    team3,
     searchMd,
     slack,
     sliders04,
@@ -62,6 +65,27 @@ import {
       title: "Contact",
       url: "#login",
       onlyMobile: true,
+    },
+  ];
+
+  export const team = [
+    {
+      id: "0",
+      name: "Gideon-Faj Owoeye",
+      role: "Head Innovator",
+      image: team1,
+    },
+    {
+      id: "1",
+      name: "Adebare Amos",
+      role: "Innovator",
+      image: team2,
+    },
+    {
+      id: "2",
+      name: "God'swill Sekav Apya",
+      role: "Technologist",
+      image: team3,
     },
   ];
   

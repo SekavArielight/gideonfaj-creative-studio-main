@@ -9,6 +9,7 @@ import Services from "./components/Services";
 import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 import Footer from "./components/Footer";
+import Team from "./components/Team";
 
 const App = () => {
   return (
@@ -18,9 +19,10 @@ const App = () => {
         <Hero />
         <Benefits />
         <Roadmap />
+        <Team />
         <Collaboration />
-        <Services />
-        <Pricing />
+        {/* <Services /> */}
+        {/* <Pricing /> */}
         <Footer />
       </div>
       <ButtonGradient />

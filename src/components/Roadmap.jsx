@@ -72,7 +72,7 @@ const Roadmap = () => {
           <Gradient />
         </div>
 
-        <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
+        <div className="flex justify-center mt-12">
           <Button href="/roadmap">Get a Free Proposal</Button>
         </div>
       </div>

@@ -75,6 +75,10 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+import team1 from "./team/team-1.png";
+import team2 from "./team/team-2.png";
+import team3 from "./team/team-3.png";
+
 export {
   brainwave,
   check,
@@ -123,6 +127,9 @@ export {
   roadmap2,
   roadmap3,
   roadmap4,
+  team1,
+  team2,
+  team3,
   undone,
   notification1,
   notification2,
