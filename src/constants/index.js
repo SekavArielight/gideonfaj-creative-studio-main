@@ -76,12 +76,6 @@ import {
       image: team1,
     },
     {
-      id: "1",
-      name: "Adebare Amos",
-      role: "Innovator",
-      image: team2,
-    },
-    {
       id: "2",
       name: "God'swill Sekav Apya",
       role: "Technologist",
