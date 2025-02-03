@@ -10,6 +10,7 @@ import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 import Footer from "./components/Footer";
 import Team from "./components/Team";
+import Form from "./components/Form";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Hero />
         <Benefits />
         <Roadmap />
+        <Form />
         <Team />
         {/* <Collaboration /> */}
         {/* <Services /> */}

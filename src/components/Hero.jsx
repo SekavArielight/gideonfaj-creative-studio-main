@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           Embark on your journey with us as your trusted guide, every step of the way.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#contact" white>
             Get Started
           </Button>
         </div>

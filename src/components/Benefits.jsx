@@ -1,7 +1,9 @@
-import React from "react";
+import React, {useEffect} from "react";
 import Section from "./Section";
 import Heading from "./Heading";
 import { benefits } from "../constants";
+// import Aos from "aos";
+// import "aos/dist/aos.css";
 
 import Arrow from "../assets/svg/Arrow";
 
@@ -10,6 +12,10 @@ import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
 
 const Benefits = () => {
+  // useEffect(() => {
+  //   Aos.init({ duration: 2000 });
+  // }, [])
+  
   return (
     <Section id="services">
       <div className="container relative z-2">
