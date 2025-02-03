@@ -64,7 +64,7 @@ import {
     {
       id: "4",
       title: "Contact",
-      url: "#footer",
+      url: "#contact",
     },
   ];
 
