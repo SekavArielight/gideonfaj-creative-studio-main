@@ -21,6 +21,7 @@ const Form = () => {
               id="grid-first-name"
               type="text"
               placeholder="Jane"
+              required
             />
           </div>
           <div class="w-full md:w-1/2 px-3">
@@ -35,6 +36,7 @@ const Form = () => {
               id="grid-last-name"
               type="text"
               placeholder="Doe"
+              required
             />
           </div>
         </div>
@@ -51,6 +53,7 @@ const Form = () => {
               id="grid-email"
               type="email"
               placeholder="example@gmail.com"
+              required
             />
           </div>
           <div class="w-full md:w-1/2 px-3">
@@ -136,7 +139,7 @@ const Form = () => {
             </div>
           </div>
         </div>
-        <Button className="w-full">Submit</Button>
+        <Button className="w-full">Get a free proposal</Button>
       </form>
     </Section>
   );
