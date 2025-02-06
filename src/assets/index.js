@@ -47,9 +47,9 @@ import stars from "./pricing/stars.svg";
 import coins from "./roadmap/coins.png";
 import done from "./roadmap/done.svg";
 import hero from "./roadmap/hero.png";
-import roadmap1 from "./roadmap/clearer-angle.png";
-import roadmap2 from "./roadmap/dekem-accessories.png";
-import roadmap3 from "./roadmap/elohim-ministry.png";
+import roadmap1 from "./roadmap/CLEARER ANGLE.png";
+import roadmap2 from "./roadmap/DEKEM.png";
+import roadmap3 from "./roadmap/ELOHIM.png";
 import roadmap4 from "./roadmap/image-4.png";
 import undone from "./roadmap/undone.svg";
 

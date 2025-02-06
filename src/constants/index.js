@@ -65,6 +65,7 @@ import {
       id: "4",
       title: "Contact",
       url: "#contact",
+      onlyMobile: true,
     },
   ];
 
