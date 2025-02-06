@@ -308,23 +308,23 @@ import {
   ];
   
   export const socials = [
-    {
-      id: "0",
-      title: "Twitter",
-      iconUrl: twitter,
-      url: "#",
-    },
+    // {
+    //   id: "0",
+    //   title: "Twitter",
+    //   iconUrl: twitter,
+    //   url: "#",
+    // },
     {
       id: "1",
       title: "Instagram",
       iconUrl: instagram,
-      url: "#",
+      url: "https://www.instagram.com/gcstudioglobal?igsh=a3NyejBseDJsOHNs",
     },
     {
       id: "3",
       title: "Facebook",
       iconUrl: facebook,
-      url: "#",
+      url: "https://www.facebook.com/gcstudioglobal",
     },
   ];
   
